@@ -43,4 +43,4 @@ cp $ORIGIN_ROOT/src/test-runner/katas/spec-runner.html $DIST_KATAS_DIR;
   npm run build:ace &&
   npm run build:spec-runners
 )
-cp $ORIGIN_ROOT/CNAME $DIST_ROOT/CNAME;
+# cp $ORIGIN_ROOT/CNAME $DIST_ROOT/CNAME;
